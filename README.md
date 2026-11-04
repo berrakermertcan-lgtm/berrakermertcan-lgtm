@@ -34,7 +34,7 @@ A hands-on project focused on AWS infrastructure provisioning and CI/CD automati
 - Automated infrastructure deployment and teardown.
 - Managed project source code with Git and GitHub.
 
-🔗 [View My DevOps Project](https://github.com/berrakermertcan-lgtm/DevOps_Final_Project)
+🔗 [View My DevOps Project](https://github.com/berrakermertcan-lgtm/DevOps_Portfolio)
 
 ## 🎯 Career Goals
 
