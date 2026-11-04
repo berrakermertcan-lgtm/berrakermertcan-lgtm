@@ -1,23 +1,24 @@
 # Hi there! I'm Berrak 👋
 
-### Aspiring DevOps & Cloud Engineer ☁️
+### Junior DevOps & Cloud Engineer ☁️
 
-I'm a DevOps enthusiast based in İzmir, Türkiye, with training in AWS and DevOps Engineering.
+I'm an AWS & DevOps Engineering graduate with hands-on experience in cloud infrastructure, Infrastructure as Code (IaC), and CI/CD automation.
 
-I enjoy learning how cloud infrastructure, automation, and CI/CD pipelines work together to build reliable and scalable applications.
+My technical background includes AWS, Terraform, Jenkins, Docker, Ansible, Linux, and Git. Through practical projects, I have developed skills in cloud resource provisioning, infrastructure automation, and designing CI/CD pipelines.
 
-I'm currently strengthening my practical skills through hands-on projects and continuous learning.
+I'm focused on building scalable, reliable, and automated cloud environments while continuously expanding my expertise in DevOps practices and cloud technologies.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-- **Cloud:** AWS (EC2, S3, IAM, VPC, CloudFront)
+- **Cloud Computing:** AWS (EC2, S3, IAM, VPC, CloudFront)
+- **CI/CD:** Jenkins, CI/CD Pipelines
 - **Infrastructure as Code:** Terraform
-- **CI/CD:** Jenkins, Git, GitHub
-- **Containers:** Docker
+- **Configuration Management:** Ansible
+- **Containerization:** Docker
+- **Version Control:** Git, GitHub
 - **Operating Systems:** Linux
 - **Scripting:** Python, Bash
-- **Currently Exploring:** Ansible, Kubernetes
-
+  
 ##  Featured Project
 
 ### DevOps Final Project
